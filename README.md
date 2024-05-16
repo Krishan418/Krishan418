@@ -14,8 +14,8 @@
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 📫 How to reach me **kavindukrishan418@gmail.com**
-
-## <b>Connect with Me</b>
+<br>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me </h3>
 <p align="center">
 <a href="https://linkedin.com/in/kavindu krishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavindu krishan" height="40" width="50" /></a>
 <a href="https://fb.com/kavindu krishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavindu krishan" height="40" width="50" /></a>
