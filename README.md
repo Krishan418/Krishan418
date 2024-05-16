@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kavindukrishan418@gmail.com**
 
- <b>Connect with Me</b>
+## <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><b>Connect with Me</b>
 <p align="center">
 <a href="https://linkedin.com/in/kavindu krishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavindu krishan" height="40" width="50" /></a>
 <a href="https://fb.com/kavindu krishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavindu krishan" height="40" width="50" /></a>
