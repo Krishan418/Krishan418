@@ -1,3 +1,7 @@
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<!-- GIF HEADER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 <h1 align="center">Hi 👋, I'm Kavindu Krishan</h1>
 <h3 align="center">A Passionate IT Student From Sri Lanka</h3>
 
