@@ -38,7 +38,8 @@
        <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishan418&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
 </p>
 
-
+<h3 align="center">Support</h3>
+<p><a href="https://www.buymeacoffee.com/krishan418"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="krishan418" /></a></p><br><br>
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
