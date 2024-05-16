@@ -3,7 +3,7 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 <h1 align="center">Hi 👋, I'm Kavindu Krishan</h1>
-<h3 align="center">A Passionate IT Student From Sri Lanka</h3>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krishan418&label=Profile%20views&color=0e75b6&style=flat" alt="krishan418" /> </p>
 
