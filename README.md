@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kavindu Krishan</h1>
 <h3 align="center">A Passionate IT Student From Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishan418&label=Profile%20views&color=0e75b6&style=flat" alt="krishan418" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=krishan418&label=Profile%20views&color=0e75b6&style=flat" alt="krishan418" /> </p>
 
 - 🔭 I’m an **Undergraduate at University of Ruhuna in Sri Lanka**
 
