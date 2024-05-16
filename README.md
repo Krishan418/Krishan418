@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krishan418&label=Profile%20views&color=0e75b6&style=flat" alt="krishan418" /> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=About Me" /></a>
+
 
 - 🔭 I’m an **Undergraduate at University of Ruhuna in Sri Lanka**
 
