@@ -39,7 +39,7 @@
 </p>
 
 <h3 align="center">Support</h3>
-<p><a href="https://www.buymeacoffee.com/krishan418"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="krishan418" /></a></p><br><br>
+<p align="center"><a href="https://www.buymeacoffee.com/krishan418"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="krishan418" /></a></p><br><br>
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
